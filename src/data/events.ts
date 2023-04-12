@@ -220,7 +220,7 @@ export const events: EventEntity[] = [
     text:
       '"Please, something of interest, sirs." The words come through in chitters and hisses. You turn your head toward an alley in the Ward of Scales to see a Harrower dressed in crude robes and a mask, it holds out a piece of parchment.\n\n"Something for sirs. Very powerful just five gold."\n\nYou can see the parchment has the designs for something on it, but still — you recognize this Harrower. It is known for trading in disreputable goods. You can\'t know where that parchment came from and if anyone saw you dealing with this creature...well, they might get the wrong idea.',
     optionA: {
-      choice: 'Make a deal wilh the Harrower.',
+      choice: 'Make a deal with the Harrower.',
       outcome:
         'PAY 5 COLLECTIVE GOLD: Intrigued by the parchment, you quickly make a decision to buy it off the Harrower. The exchange is fast, and then you move on your way, hoping no one saw you.\n\nGain Random Item Design.\n\nReputation > 9: Lose 1 reputation.\n\nOTHERWISE: You try to pay the Harrower less than it asks for, which only manages to anger it. It hisses loudly and shuns you.\n\nLose 1 reputation.',
       imageUrl: '/assets/cards/events/base/city/ce-11-b-a.png',
